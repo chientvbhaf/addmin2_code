@@ -1,0 +1,1 @@
+web: vendo/bin/heroku-php-apache public/
